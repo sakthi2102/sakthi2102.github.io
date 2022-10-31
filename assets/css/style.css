@@ -279,13 +279,6 @@ a:hover {
   visibility: visible;
   width: 25px;
 }
-
-.navbar .active,
-.navbar .active:focus,
-.navbar li:hover>a {
-  color: black;
-}
-
 /**
 * Mobile Navigation 
 */
