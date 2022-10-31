@@ -279,20 +279,12 @@ a:hover {
   visibility: visible;
   width: 25px;
 }
-
-.navbar a:hover,
-.navbar .active,
-.navbar .active:focus,
-.navbar li:hover>a {
-  color: black;
-}
-
 /**
 * Mobile Navigation 
 */
 .mobile-nav-toggle 
 {
-  color: black;
+  color: white;
   font-size: 28px;
   cursor: pointer;
   display: none;
