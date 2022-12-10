@@ -532,7 +532,7 @@ section .container {
   font-size: 18px;
   color: black;
 }
-.interests .icon-box:hover {
+.interests .icon-box a:hover {
   color: blue;
 }
 
