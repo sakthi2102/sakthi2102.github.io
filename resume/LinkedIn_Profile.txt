@@ -1,0 +1,92 @@
+
+Veerasakthivel .S
+Jr. Software Developer in Xmplar Management Solutions Pvt. Ltd. 
+
+Contact:
+    9786193013 (Mobile)
+    veerasakthivel130@gmail.com
+    www.linkedin.com/in/veerasakthivel (LinkedIn)
+
+Location:
+    Country/Region 
+        India
+    City
+        Sivakasi, Tamil Nadu
+
+Website:
+    Link
+        https://sakthi2102.github.io
+
+Top Skills:
+    Java
+    Spring Boot
+    PostgreSQL
+    Mobile Application Development 
+    Android Development
+    Flutter
+
+Skills:
+    Java
+    Mobile Application Development
+    Android Development
+    Spring Boot
+    PostgreSQL
+    SQL
+    Flutter
+    Firebase
+    HTML
+    Cascading Style Sheets (CSS)
+    JavaScript
+    Internet of Things (IoT)
+
+
+Summary:
+    Backend Developer | Spring Boot, Mobile App Development, Flutter | R&D Enthusiast
+
+    I specialize in backend development with Spring Boot and have a strong background in mobile app development with Android Java. Now, I am expanding my skill set by learning Flutter to build cross- platform applications. My areas of expertise include API integration and enhancing performance across backend and mobile systems. Driven by a passion for R&D, I continuously seek innovative approaches to optimize functionality and efficiency.
+
+Experience:
+    Xmplar Management Solutions Pvt. Ltd.
+    2 years 2 months
+    Jr. Software Developer
+    June 2024 - Present (1 year 5 months) Madurai, Tamil Nadu, India
+
+    Jr. Java Developer
+    September 2023 - May 2024 (9 months) Madurai, Tamil Nadu, India
+
+
+Priga Solutions
+    Android Mobile Application Developer February 2023 - September 2023 (8 months) Bengaluru, Karnataka, India
+
+
+Education:
+    Kamaraj College of Engineering and Technology
+    High School Diploma, Information Technology  (January 2020 - May 2024)
+
+
+Posts in linkedin(Works/learning):
+
+1. Excited to share my latest blog post on "Optimizing Performance in Android Applications." Check it out for tips and techniques to enhance your app's speed and responsiveness. hashtag#AndroidDev hashtag#AppOptimization
+    Link(https://link.medium.com/XDRuZ74U3Hb)
+2. Check out my new blog post on "Flutter Animation Techniques: Elevate your app's user experience with practical tips for developers at all levels. hashtag#FlutterAppDevelopment hashtag#Animation "
+    Link(https://link.medium.com/y4N23bwd9Hb)
+3. Check out this insightful blog post on Flutter Custom Paint and Custom Widgets. It's a quick read packed with practical examples to enhance your Flutter UI development skills. hashtag#Flutter hashtag#CustomPaint hashtag#CustomWidgets 🎨✨
+    Link(https://link.medium.com/Vqb5p1kwhIb)
+4. 🌟I am excited to share my latest blog post on Flutter Platform Channels! Learn how to seamlessly integrate native features into your Flutter apps.hashtag#Flutter hashtag#MobileDevelopment hashtag#FlutterPlatformChannel🚀📱
+    Link(https://link.medium.com/q4NGnupxEIb)
+5. From idea to app! 🍽️ I’ve written a blog post on Medium about my experience creating a food tracker application in Flutter. Check it out!
+    Link(https://link.medium.com/KODztDUh9Mb)
+6. 🚀 Explore how OLAP transforms raw data into actionable insights, helping businesses make faster, smarter decisions! 📊💡 Check out my latest blog to learn more. hashtag#DataAnalytics hashtag#OLAP hashtag#BusinessIntelligence hashtag#DataScience
+    Link(https://link.medium.com/zsylRwp1IOb)
+7. 🌟 Understanding Virtual Threads in Java with Real-Life Examples 🌟 Have you ever wondered how Virtual Threads can revolutionize Java programming by enhancing scalability and performance? I've written an article to simplify this powerful feature introduced in Java 19, breaking it down with real-world examples. 💡 Explore how Virtual Threads differ from traditional threads and why they are a game-changer for high-performance, lightweight concurrency in Java applications.
+    Link(https://medium.com/@veerasakthivel130/understanding-virtual-threads-in-java-with-real-life-examples-b7685fa26e68)
+8. 📢 Rent Tacks – Smarter Rental Management! 🏡💰 Effortless property tracking is made simple! Add houses, manage tenants, track payments, and generate reports—all with real-time syncing. 🚀🔥 hashtag#RentTacks hashtag#PropTech hashtag#Automation hashtag#RealEstate hashtag#Flutter hashtag#AndroidDev hashtag#Firebase
+    Link(https://link.medium.com/vqkaOHPfSQb)
+9.  🎓 Certified in Flutter & Dart—The Complete Guide [2025 Edition] 🚀📱
+        I’m excited to announce the successful completion of this comprehensive course, where I gained hands-on skills in:
+            ✅ Flutter framework & Dart programming 💻
+            ✅ State management 🔄
+            ✅ Firebase integration 🔥 for real-time apps
+            ✅ UI/UX best practices 🎨
+
+        hashtag#Flutter hashtag#Dart hashtag#MobileDevelopment hashtag#Firebase hashtag#CrossPlatform hashtag#AppDevelopment hashtag#LearningJourney

@@ -1,0 +1,368 @@
+/* Two-column professional, responsive, print-friendly resume CSS */
+:root {
+  --bg: #f5f8fb;
+  --card: #ffffff;
+  --accent: #0b66c3;
+  --accent-2: #4aa3ff;
+  --muted: #566270;
+  --text: #15232b;
+  --radius: 8px;
+}
+
+@page {
+  margin: 16mm;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--text);
+  line-height: 1.3;
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.container {
+  max-width: 1000px;
+  margin: 18px auto;
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px;
+  background: linear-gradient(
+    180deg,
+    rgba(11, 102, 195, 0.06),
+    transparent 60%
+  );
+  border-radius: var(--radius);
+}
+.header .left-head {
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  font-size: clamp(20px, 3.2vw, 30px);
+  font-weight: 800;
+  color: var(--accent);
+  letter-spacing: 0.2px;
+}
+.title {
+  font-size: clamp(12px, 1.6vw, 15px);
+  color: #1f3b5a;
+  margin-top: 4px;
+  font-weight: 600;
+}
+.contact {
+  text-align: right;
+  font-size: 12px;
+  color: var(--muted);
+}
+.contact a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+/* Layout: left sidebar + right main */
+.layout {
+  display: flex;
+  gap: 28px;
+  margin-top: 14px;
+}
+.left {
+  width: 30%;
+}
+.right {
+  width: 70%;
+}
+
+.card {
+  padding: 12px;
+  background: transparent;
+}
+h2.section {
+  font-size: 13px;
+  color: var(--accent);
+  margin: 6px 0 10px;
+  border-bottom: 1px solid rgba(10, 90, 160, 0.06);
+  padding-bottom: 6px;
+}
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--text);
+}
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(180deg, #eef6ff, #f8fbff);
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 6px 10px;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  box-shadow: 0 6px 18px rgba(11, 102, 195, 0.06);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+.skill-pill:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 26px rgba(11, 102, 195, 0.09);
+}
+.muted {
+  color: var(--muted);
+  font-size: 12px;
+}
+ul {
+  margin: 8px 0 12px 18px;
+  padding: 0;
+}
+li {
+  margin-bottom: 8px;
+  font-size: 13px;
+}
+.experience .role {
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: 8px;
+  color: #0f2b3a;
+}
+.company-meta {
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.projects li {
+  margin-bottom: 10px;
+}
+
+/* Sidebar specifics */
+.sidebar-contact {
+  font-size: 13px;
+  line-height: 1.45;
+}
+.sidebar-section {
+  margin-bottom: 12px;
+  padding: 8px;
+  background: linear-gradient(180deg, rgba(10, 80, 140, 0.02), transparent);
+  border-radius: 6px;
+}
+
+  /* Education duration styling: small bracketed text on next line, lighter than college */
+  .edu-duration { display: block; font-size: 12px; color: rgba(86,98,112,0.7); margin-top: 6px; font-weight: 600; }
+  .edu-duration::before { margin-right: 0; color: rgba(86,98,112,0.7); }
+  .edu-duration::after {  margin-left: 0; color: rgba(86,98,112,0.7); }
+
+  /* Project blog link tiny pill */
+  .project-blog { font-size: 12px; color: var(--accent); text-decoration: none; background: rgba(11, 102, 195, 0.06); padding: 2px 6px; border-radius: 6px; margin-left: 6px; }
+  .project-blog:hover { background: rgba(11, 102, 195, 0.12); }
+
+/* Download button */
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--accent);
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+  box-shadow: 0 8px 28px rgba(11, 102, 195, 0.14);
+  border: none;
+  cursor: pointer;
+}
+.download-btn:active {
+  transform: translateY(1px);
+}
+
+/* Accent line beside section headers in right column */
+.right h2.section {
+  position: relative;
+  padding-left: 12px;
+}
+.right h2.section:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 4px;
+  height: calc(100% - 8px);
+  width: 6px;
+  background: linear-gradient(180deg, var(--accent), var(--accent-2));
+  border-radius: 3px;
+}
+
+/* Make links subtle but visible */
+a {
+  color: var(--accent);
+}
+
+/* Responsive: tablet -> mobile */
+@media (max-width: 920px) {
+  .container {
+    padding: 12px;
+  }
+  .layout {
+    gap: 18px;
+  }
+  .left {
+    width: 34%;
+  }
+  .right {
+    width: 66%;
+  }
+  .header {
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  .contact {
+    text-align: left;
+  }
+}
+
+@media (max-width: 720px) {
+  .layout {
+    flex-direction: column;
+  }
+  .left,
+  .right {
+    width: 100%;
+  }
+  .header {
+    text-align: left;
+  }
+  .header .contact {
+    order: 3;
+    width: 100%;
+    margin-top: 8px;
+  }
+  .header .left-head {
+    order: 1;
+  }
+  .download-btn {
+    width: 100%;
+    justify-content: center;
+  }
+  .skill-pill {
+    font-size: 12px;
+    padding: 6px 8px;
+  }
+}
+
+/* Force single-page print behavior and avoid splitting important blocks */
+@media print {
+  @page {
+    size: A4;
+    margin: 16mm;
+  }
+  html,
+  body {
+    width: 210mm;
+    height: 297mm;
+  }
+  body {
+    background: #fff;
+  }
+  .container {
+    max-width: 210mm;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0;
+    margin: 0 auto;
+  }
+  .layout {
+    display: flex;
+    gap: 12px;
+  }
+  .left {
+    width: 34%;
+  }
+  .right {
+    width: 66%;
+  }
+  .experience,
+  .projects,
+  .card {
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .role,
+  .company-meta {
+    page-break-after: avoid;
+  }
+  /* Hide interactive controls */
+  #downloadPdf,
+  .download-btn {
+    display: none !important;
+  }
+  .skill-pill {
+    background: none;
+    color: var(--accent);
+    box-shadow: none;
+  }
+  a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+}
+
+/* small visual refinements */
+.container {
+  background: var(--card);
+  box-shadow: 0 10px 36px rgba(9, 30, 45, 0.06);
+  padding: 20px;
+  border-radius: var(--radius);
+}
+.header {
+  border-bottom: 1px solid rgba(11, 102, 195, 0.06);
+}
+.contact div {
+  margin-bottom: 4px;
+}
+
+/* subtle divider between sections on mobile */
+@media (max-width: 720px) {
+  .sidebar-section {
+    padding: 10px;
+  }
+}
+
+/* ensure good contrast for accessibility */
+.name,
+.role {
+  color: #0b3a57;
+}
+
+/* When generating PDF, force an A4 sized rendering to ensure consistent single-page output
+   and add extra bottom whitespace so PDF doesn't appear cramped. The script toggles
+   the `pdf-size` class on the container before capture. */
+.container.pdf-size {
+  /* Fit to printable A4 content area (accounting for page margins). We subtract
+     left+right page margins (16mm each) to get the content width so printing
+     produces equal left/right margins. */
+  width: calc(210mm - 32mm) !important; /* 178mm */
+  min-height: 297mm !important;
+  box-sizing: border-box !important;
+  padding: 12mm !important;
+  margin: 16mm auto !important;
+  border-radius: 0 !important;
+  background: var(--card) !important;
+  /* visible white strip at the bottom to avoid cramped edge */
+  padding-bottom: 28mm !important;
+}
+
+/* Keep overflow visible to allow shadows to render before capture if needed */
+.container.pdf-size * {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}

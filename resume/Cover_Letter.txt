@@ -1,0 +1,20 @@
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Date]
+
+[Hiring Manager Name]
+[Company Name]
+[Company Address]
+
+Dear [Hiring Manager Name],
+
+I’m writing to express my interest in the [Role] at [Company]. As a Backend & Mobile Developer with 2+ years of experience building Spring Boot backends and Android/Flutter applications, I bring practical experience in designing RESTful APIs, optimizing PostgreSQL queries, and delivering reliable mobile experiences with Firebase integration. At Xmplar Management Solutions I contributed to backend features that improved system stability and collaborated closely with mobile teams to ship integrated releases.
+
+I enjoy solving performance and reliability problems and documenting learnings to improve engineering practices. I’d welcome the opportunity to bring hands-on backend and mobile experience to [Company], and to help deliver performant, user-centered products. Thank you for considering my application — I look forward to the possibility of discussing how I can contribute.
+
+Sincerely,
+
+Veerasakthivel S
++91 97861 93013
+veerasakthivel130@gmail.com

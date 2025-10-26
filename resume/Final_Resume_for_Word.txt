@@ -1,0 +1,64 @@
+Veerasakthivel S
+Jr. Software Developer — Backend & Mobile
+Phone: +91 97861 93013  •  Email: veerasakthivel130@gmail.com
+Location: Sivakasi, Tamil Nadu, India — Open to remote/on-site
+
+LinkedIn: www.linkedin.com/in/veerasakthivel
+Website: https://sakthi2102.github.io/
+
+PROFESSIONAL SUMMARY
+Backend & Mobile Developer with 2+ years of experience building production Spring Boot backends and Android/Flutter mobile applications. Proficient in Java, Spring Boot, PostgreSQL, Android (Java), Flutter and Firebase. Focused on API design, system reliability, and performance optimization.
+
+CORE SKILLS
+Languages & Frameworks: Java, Spring Boot, Dart, Flutter, Android (Java)
+Backend & Data: PostgreSQL, SQL, REST API design, JDBC
+Mobile & Cloud: Firebase (Auth, Realtime), background services, performance tuning
+Tools & Practices: Git, Android Studio, IntelliJ IDEA, unit testing, Agile
+
+PROFESSIONAL EXPERIENCE
+Xmplar Management Solutions Pvt. Ltd. — Jr. Software Developer
+Madurai, Tamil Nadu | Sep 2023 – Present
+- Worked on API project development using Java and Spring Boot with PostgreSQL as the primary datastore.
+- Developed Android app features (Java): UI modules, background location services, and integrations with backend APIs.
+- Developed Flutter applications for cross-platform clients; used AI-assisted workflows (VS Code with Claude) during prototyping to accelerate UI iterations.
+- Conducted R&D to reduce query fetch latency using TimescaleDB and tuned time-series queries for performance.
+- Built API, web and mobile integrations communicating with OPC UA servers to collect and expose industrial telemetry.
+- Produced visual architecture flows for a module using Cytoscape.js to clarify data and integration flows for stakeholders.
+
+Xmplar Management Solutions Pvt. Ltd. — Jr. Java Developer
+Madurai, Tamil Nadu | Sep 2023 – May 2024
+- Developed backend modules, resolved defects, and supported feature rollouts; wrote unit tests for core components.
+
+Priga Solutions — Android Mobile Application Developer
+Bengaluru, Karnataka | Feb 2023 – Sep 2023
+- Implemented Android features using Java and Android SDK; built UI modules, local persistence, and background sync.
+- Integrated Firebase for authentication, real-time sync and analytics.
+- Developed "Track My Route" navigation app (http://bit.ly/41zp84h): located current position, POI search and turn-by-turn directions using Google Maps APIs.
+
+SELECTED PROJECTS
+RentTacks — Rental management app (Flutter + Firebase)
+- Built a cross-platform app to manage properties, tenants, payments and reporting with real-time Firebase sync.
+- Focused on data integrity, input validation, and a reliable UX for day-to-day landlord operations.
+
+Food Tracker — Personal project (Flutter)
+- Developed a food-logging app with local persistence and analytics; emphasized efficient state management and responsive UI.
+
+College Bus Tracker — Android app (Java)
+- Real-time tracking and monitoring application for college buses; provides live location, ETA and route monitoring for students to ensure efficient, convenient transportation.
+- Implemented Android background location services and Firebase Realtime Database for vehicle location updates and arrival notifications.
+
+Track My Route — Android app (Java) (Inter Project at Priga Solutions) — http://bit.ly/41zp84h
+- A navigation and place-finding tool that locates the user's current position, searches POIs, and provides turn-by-turn directions and route plotting.
+- Built with Android SDK (Java), Google Maps APIs and location services; implemented real-time navigation, POI search, and intent-based route guidance.
+
+EDUCATION
+Kamaraj College of Engineering and Technology — B.E. Information Technology
+Jan 2020 – May 2024
+
+CERTIFICATION
+Flutter & Dart — The Complete Guide (2025)
+
+ADDITIONAL
+- Documented technical learnings and experiments on mobile performance, Flutter UI, and Java concurrency.
+- Languages: English, Tamil
+- Open to: Backend, Mobile, Full-stack and R&D roles
