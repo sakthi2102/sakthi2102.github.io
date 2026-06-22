@@ -25,10 +25,6 @@ Madurai, Tamil Nadu | Sep 2023 – Present
 - Built API, web and mobile integrations communicating with OPC UA servers to collect and expose industrial telemetry.
 - Produced visual architecture flows for a module using Cytoscape.js to clarify data and integration flows for stakeholders.
 
-Xmplar Management Solutions Pvt. Ltd. — Jr. Java Developer
-Madurai, Tamil Nadu | Sep 2023 – May 2024
-- Developed backend modules, resolved defects, and supported feature rollouts; wrote unit tests for core components.
-
 Priga Solutions — Android Mobile Application Developer
 Bengaluru, Karnataka | Feb 2023 – Sep 2023
 - Implemented Android features using Java and Android SDK; built UI modules, local persistence, and background sync.
@@ -55,8 +51,13 @@ EDUCATION
 Kamaraj College of Engineering and Technology — B.E. Information Technology
 Jan 2020 – May 2024
 
-CERTIFICATION
-Flutter & Dart — The Complete Guide (2025)
+CERTIFICATIONS
+Claude Code in Action — Anthropic (Issued Mar 2026)
+AI Tools Workshop — United Latino Students Association (Issued Apr 2026)
+Advanced Prompt Engineering — Simplilearn (Issued Mar 2026)
+Introduction to Prompt Engineering Fundamentals — Simplilearn (Issued Feb 2026)
+Flutter & Dart — The Complete Guide — Udemy (Issued Sep 2025)
+
 
 ADDITIONAL
 - Documented technical learnings and experiments on mobile performance, Flutter UI, and Java concurrency.
