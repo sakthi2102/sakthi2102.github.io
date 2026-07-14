@@ -71,36 +71,31 @@ Certifications:
     Flutter & Dart — The Complete Guide [2025 Edition] — Udemy (Sep 2025)
 
 
-Posts in linkedin(Works/learning):
+Posts in linkedin(Works/learning) — blog/article posts only (certifications and job updates are listed separately above), most recent first:
 
-1. Excited to share my latest blog post on "Optimizing Performance in Android Applications." Check it out for tips and techniques to enhance your app's speed and responsiveness. hashtag#AndroidDev hashtag#AppOptimization
-    Link(https://link.medium.com/XDRuZ74U3Hb)
-2. Check out my new blog post on "Flutter Animation Techniques: Elevate your app's user experience with practical tips for developers at all levels. hashtag#FlutterAppDevelopment hashtag#Animation
-    Link(https://link.medium.com/y4N23bwd9Hb)
-3. Check out this insightful blog post on Flutter Custom Paint and Custom Widgets. It's a quick read packed with practical examples to enhance your Flutter UI development skills. hashtag#Flutter hashtag#CustomPaint hashtag#CustomWidgets
-    Link(https://link.medium.com/Vqb5p1kwhIb)
-4. I am excited to share my latest blog post on Flutter Platform Channels! Learn how to seamlessly integrate native features into your Flutter apps. hashtag#Flutter hashtag#MobileDevelopment hashtag#FlutterPlatformChannel
-    Link(https://link.medium.com/q4NGnupxEIb)
-5. From idea to app! I've written a blog post on Medium about my experience creating a food tracker application in Flutter. Check it out!
-    Link(https://link.medium.com/KODztDUh9Mb)
-6. Explore how OLAP transforms raw data into actionable insights, helping businesses make faster, smarter decisions! Check out my latest blog to learn more. hashtag#DataAnalytics hashtag#OLAP hashtag#BusinessIntelligence hashtag#DataScience
-    Link(https://link.medium.com/zsylRwp1IOb)
-7. Understanding Virtual Threads in Java with Real-Life Examples — Have you ever wondered how Virtual Threads can revolutionize Java programming by enhancing scalability and performance? I've written an article to simplify this powerful feature introduced in Java 19, breaking it down with real-world examples. Explore how Virtual Threads differ from traditional threads and why they are a game-changer for high-performance, lightweight concurrency in Java applications.
-    Link(https://medium.com/@veerasakthivel130/understanding-virtual-threads-in-java-with-real-life-examples-b7685fa26e68)
-8. Rent Tacks – Smarter Rental Management! Effortless property tracking is made simple! Add houses, manage tenants, track payments, and generate reports — all with real-time syncing. hashtag#RentTacks hashtag#PropTech hashtag#Automation hashtag#RealEstate hashtag#Flutter hashtag#AndroidDev hashtag#Firebase
+1. Prompt Engineering: A Simple Guide for Everyone (Mar 2026)
+    Blog covering what prompts are, how to structure them effectively, and techniques like Zero-shot, Few-shot, Chain-of-Thought, Self-Consistency, and Tree-of-Thought, explained with real-world examples.
+    Link(https://medium.com/p/prompt-engineering-a-simple-guide-for-everyone-b8eca8317e53)
+2. Flutter State Management: Complete Real-Time Guide (Nov 2025)
+    Blog comparing setState, Provider, BLoC, Riverpod, and GetX through real-world examples (Instagram, WhatsApp, banking-style apps) to remove decision paralysis around state management.
+    Link(https://medium.com/p/flutter-state-management-complete-real-time-guide-980230ccc01a)
+3. Rent Tacks – Smarter Rental Management! (Feb 2025)
+    Effortless property tracking: add houses, manage tenants, track payments, and generate reports — all with real-time syncing. hashtag#RentTacks hashtag#PropTech hashtag#Automation hashtag#RealEstate hashtag#Flutter hashtag#AndroidDev hashtag#Firebase
     Link(https://link.medium.com/vqkaOHPfSQb)
-9. Certified in Flutter & Dart — The Complete Guide [2025 Edition]
-    I'm excited to announce the successful completion of this comprehensive course, where I gained hands-on skills in Flutter framework & Dart programming, state management, Firebase integration for real-time apps, and UI/UX best practices.
-    hashtag#Flutter hashtag#Dart hashtag#MobileDevelopment hashtag#Udemy
-10. Introduction to Prompt Engineering Fundamentals — Simplilearn (Feb 2026)
-    Completed certification covering core prompting techniques, zero-shot and few-shot prompting, chain-of-thought, and best practices for working with large language models.
-    hashtag#PromptEngineering hashtag#AI hashtag#Simplilearn
-11. Advanced Prompt Engineering — Simplilearn (Mar 2026)
-    Completed advanced certification covering structured prompting, task decomposition, context management, and applying prompt engineering to production AI workflows.
-    hashtag#PromptEngineering hashtag#AI hashtag#Simplilearn
-12. Claude Code in Action — Anthropic (Mar 2026)
-    Completed certification from Anthropic on using Claude Code effectively in development workflows — AI-assisted coding, code review, and agentic automation.
-    hashtag#ClaudeCode hashtag#Anthropic hashtag#AITools hashtag#DeveloperProductivity
-13. AI Tools Workshop — United Latino Students Association / ULSA (Apr 2026)
-    Attended and completed AI Tools Workshop covering practical applications of AI in development and workflow automation.
-    hashtag#AITools hashtag#Workshop
+4. Understanding Virtual Threads in Java with Real-Life Examples (Jan 2025)
+    Article simplifying Java 19 Virtual Threads with real-world examples, exploring how they differ from traditional threads and why they matter for high-performance, lightweight concurrency.
+    Link(https://medium.com/@veerasakthivel130/understanding-virtual-threads-in-java-with-real-life-examples-b7685fa26e68)
+5. Uncovering OLAP's Power: Converting Data into Understanding (Nov 2024)
+    Blog on how OLAP transforms raw data into actionable insights for faster, smarter business decisions. hashtag#DataAnalytics hashtag#OLAP hashtag#BusinessIntelligence hashtag#DataScience
+    Link(https://link.medium.com/zsylRwp1IOb)
+6. Building a Personalized Food Tracker in Flutter (Sep 2024)
+    Blog on the experience of building a food-logging application in Flutter, from idea to app.
+    Link(https://link.medium.com/KODztDUh9Mb)
+7. Optimizing Performance in Android Applications (date unverified, not present in latest export)
+    Link(https://link.medium.com/XDRuZ74U3Hb)
+8. Flutter Animation Techniques (date unverified, not present in latest export)
+    Link(https://link.medium.com/y4N23bwd9Hb)
+9. Flutter Custom Paint and Custom Widgets (date unverified, not present in latest export)
+    Link(https://link.medium.com/Vqb5p1kwhIb)
+10. Flutter Platform Channels (date unverified, not present in latest export)
+    Link(https://link.medium.com/q4NGnupxEIb)
