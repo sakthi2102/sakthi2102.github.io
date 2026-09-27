@@ -19,7 +19,7 @@
                 <div class="contact">
                     <div>+91 97861 93013 &nbsp;|&nbsp; veerasakthivel130@gmail.com</div>
                     <div><a href="https://www.linkedin.com/in/veerasakthivel">linkedin.com/in/veerasakthivel</a> &nbsp;|&nbsp; <a href="https://sakthi2102.github.io">sakthi2102.github.io</a></div>
-                    <div class="muted">Sivakasi, Tamil Nadu - Open to remote/on-site</div>
+                    <div class="muted">Sivakasi, Tamil Nadu - Open to remote</div>
                 </div>
                 <div>
                     <button id="downloadPdf" class="download-btn" aria-label="Download resume as PDF">
@@ -42,7 +42,7 @@
         <div class="layout">
             <section class="section-block">
                 <h2 class="section">Summary</h2>
-                <p>Backend and Mobile Developer with 2+ years of experience building Spring Boot backends and
+                <p>Backend and Mobile Developer with <span id="exp-years">3</span>+ years of experience building Spring Boot backends and
                     Android/Flutter applications. Skilled in Java, Spring Boot, PostgreSQL, Android (Java), Flutter
                     and Firebase. Focused on API design, reliability, and performance optimization; experienced with
                     time-series database tuning and industrial device integrations.</p>
@@ -62,8 +62,17 @@
                 <h2 class="section">Professional Experience</h2>
 
                 <div>
+                    <div class="role">CertusOne Software Technologies Pvt. Ltd. - Product Developer</div>
+                    <div class="company-meta">Madurai, Tamil Nadu | Sep 2026 - Present</div>
+                    <ul>
+                        <li>Continuing the same product work (Spring Boot APIs, Android and Flutter clients)
+                            after the team was spun off from Xmplar as a new entity.</li>
+                    </ul>
+                </div>
+
+                <div>
                     <div class="role">Xmplar Management Solutions Pvt. Ltd. - Jr. Software Developer</div>
-                    <div class="company-meta">Madurai, Tamil Nadu | Sep 2023 - Present</div>
+                    <div class="company-meta">Madurai, Tamil Nadu | Jun 2024 - Aug 2026 (Jr. Java Developer Intern, Sep 2023 - May 2024)</div>
                     <ul>
                         <li>Developed backend API features using Java and Spring Boot with PostgreSQL as the
                             primary datastore.</li>
@@ -81,7 +90,7 @@
                 </div>
 
                 <div>
-                    <div class="role">Priga Solutions - Android Mobile Application Developer</div>
+                    <div class="role">Priga Solutions - Android Mobile Application Developer (Intern)</div>
                     <div class="company-meta">Bengaluru, Karnataka | Feb 2023 - Sep 2023</div>
                     <ul>
                         <li>Implemented Android features using Java and Android SDK; built UI modules, local
@@ -109,7 +118,7 @@
                     <li><strong>College Bus Tracker</strong> - Android app (Java): Real-time tracking and
                         monitoring application for college buses; implemented background location services and
                         Firebase Realtime Database for vehicle location updates and arrival notifications.</li>
-                    <li><strong>Track My Route</strong> - Android app (Java), Priga Solutions: Navigation and
+                    <li><strong>Track My Route</strong> - Android app (Java): Navigation and
                         place-finding tool that locates user position, searches POIs and provides turn-by-turn
                         directions. Built with Android SDK and Google Maps APIs.</li>
                 </ul>
@@ -128,6 +137,7 @@
             <section class="section-block">
                 <h2 class="section">Certifications</h2>
                 <ul class="cert-list">
+                    <li><strong>Claude 101</strong><span class="muted"> - Anthropic, Aug 2026</span></li>
                     <li><strong>Claude Code in Action</strong><span class="muted"> - Anthropic, Mar 2026</span></li>
                     <li><strong>AI Tools Workshop</strong><span class="muted"> - ULSA, Apr 2026</span></li>
                     <li><strong>Advanced Prompt Engineering</strong><span class="muted"> - Simplilearn, Mar 2026</span></li>
@@ -149,6 +159,13 @@
     <script>
         // Primary path: one-click html2pdf generation (no print dialog) for recruiters. High-resolution capture.
         // Also: scale the UI so the resume always appears as a single A4 page on screen and in the PDF.
+        // Whole years of experience since first role (Feb 2023)
+        (function () {
+            var now = new Date();
+            var months = (now.getFullYear() - 2023) * 12 + (now.getMonth() - 1) + 1;
+            document.getElementById('exp-years').textContent = Math.floor(months / 12);
+        })();
+
         (function () {
             // Note: using window.print() as primary flow so the browser's print dialog
             // is used (vector/consistent output). html2pdf (raster) removed from primary flow.

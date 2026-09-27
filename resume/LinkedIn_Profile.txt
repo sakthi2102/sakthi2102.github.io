@@ -1,6 +1,6 @@
 
 Veerasakthivel .S
-Jr. Software Developer in Xmplar Management Solutions Pvt. Ltd.
+Product Developer | Backend & Mobile | Spring Boot, Android, Flutter
 
 Contact:
     9786193013 (Mobile)
@@ -45,17 +45,21 @@ Summary:
     I specialize in backend development with Spring Boot and have a strong background in mobile app development with Android Java. Now, I am expanding my skill set by learning Flutter to build cross-platform applications. My areas of expertise include API integration and enhancing performance across backend and mobile systems. Driven by a passion for R&D, I continuously seek innovative approaches to optimize functionality and efficiency.
 
 Experience:
-    Xmplar Management Solutions Pvt. Ltd.
-    2 years 9 months (total)
-    Jr. Software Developer
-    June 2024 - Present Madurai, Tamil Nadu, India
+    CertusOne Software Technologies Private Limited
+    Product Developer (Full-time)
+    September 2026 - Present (1 month) Madurai, Tamil Nadu, India
 
-    Jr. Java Developer
+    Xmplar Management Solutions Pvt. Ltd.
+    3 years (total)
+    Jr. Software Developer (Full-time)
+    June 2024 - August 2026 (2 years 3 months) Madurai, Tamil Nadu, India
+
+    Jr. Java Developer (Internship)
     September 2023 - May 2024 (9 months) Madurai, Tamil Nadu, India
 
 
 Priga Solutions
-    Android Mobile Application Developer February 2023 - September 2023 (8 months) Bengaluru, Karnataka, India
+    Android Mobile Application Developer (Internship) February 2023 - September 2023 (8 months) Bengaluru, Karnataka, India
 
 
 Education:
@@ -64,6 +68,7 @@ Education:
 
 
 Certifications:
+    Claude 101 — Anthropic (Aug 2026) — Credential ID bn33xwsfxtez
     Claude Code in Action — Anthropic (Mar 2026)
     AI Tools Workshop — United Latino Students Association / ULSA (Apr 2026)
     Advanced Prompt Engineering — Simplilearn (Mar 2026)

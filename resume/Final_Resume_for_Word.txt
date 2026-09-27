@@ -1,12 +1,12 @@
 Veerasakthivel S
 Software Developer - Backend & Mobile (Java, Spring Boot, Android, Flutter)
 Phone: +91 97861 93013 | Email: veerasakthivel130@gmail.com
-Location: Sivakasi, Tamil Nadu, India (Open to remote/on-site)
+Location: Sivakasi, Tamil Nadu, India (Open to remote)
 LinkedIn: www.linkedin.com/in/veerasakthivel
 Portfolio: https://sakthi2102.github.io/
 
 PROFESSIONAL SUMMARY
-Backend and Mobile Developer with 2+ years of experience building production Spring Boot backends and Android/Flutter mobile applications. Skilled in Java, Spring Boot, REST API design, PostgreSQL, SQL, Android (Java), Flutter, Dart, and Firebase. Experienced in system reliability, performance tuning, and time-series data optimization. Open to Backend, Mobile, Full-Stack, and R&D roles.
+Backend and Mobile Developer with 3+ years of experience building production Spring Boot backends and Android/Flutter mobile applications. Skilled in Java, Spring Boot, REST API design, PostgreSQL, SQL, Android (Java), Flutter, Dart, and Firebase. Experienced in system reliability, performance tuning, and time-series data optimization. Open to Backend, Mobile, Full-Stack, and R&D roles.
 
 TECHNICAL SKILLS
 Languages: Java, Dart, SQL, JavaScript, HTML, CSS
@@ -16,8 +16,12 @@ Tools & Practices: Git, Android Studio, IntelliJ IDEA, Unit Testing, Agile, Cyto
 
 PROFESSIONAL EXPERIENCE
 
+CertusOne Software Technologies Pvt. Ltd. - Product Developer
+Madurai, Tamil Nadu | Sep 2026 - Present
+- Continuing the same product work (Spring Boot APIs, Android and Flutter clients) after the team was spun off from Xmplar as a new entity.
+
 Xmplar Management Solutions Pvt. Ltd. - Jr. Software Developer
-Madurai, Tamil Nadu | Sep 2023 - Present
+Madurai, Tamil Nadu | Jun 2024 - Aug 2026 (Jr. Java Developer Intern, Sep 2023 - May 2024)
 - Developed backend API features using Java and Spring Boot with PostgreSQL as the primary datastore.
 - Built Android application features in Java, including UI modules, background location services, and backend API integrations.
 - Developed Flutter applications for cross-platform clients, using AI-assisted development workflows to accelerate UI iteration.
@@ -25,7 +29,7 @@ Madurai, Tamil Nadu | Sep 2023 - Present
 - Built API, web, and mobile integrations with OPC UA servers to collect and expose industrial telemetry data.
 - Created visual architecture diagrams using Cytoscape.js to document data flows and integration points for stakeholders.
 
-Priga Solutions - Android Mobile Application Developer
+Priga Solutions - Android Mobile Application Developer (Intern)
 Bengaluru, Karnataka | Feb 2023 - Sep 2023
 - Implemented Android application features using Java and Android SDK, including UI modules, local data persistence, and background sync.
 - Integrated Firebase for user authentication, real-time data sync, and analytics tracking.
@@ -45,7 +49,7 @@ College Bus Tracker - Android Application (Java)
 - Built a real-time tracking and monitoring application for college buses, providing live location, ETA, and route monitoring for students.
 - Implemented Android background location services and Firebase Realtime Database for vehicle location updates and arrival notifications.
 
-Track My Route - Android Application (Java), Priga Solutions
+Track My Route - Android Application (Java)
 - Developed a navigation and place-finding application that locates the user's current position, searches nearby points of interest, and provides turn-by-turn directions.
 - Built using Android SDK (Java), Google Maps APIs, and location services with intent-based route guidance.
 
@@ -54,6 +58,7 @@ Kamaraj College of Engineering and Technology - Bachelor of Engineering, Informa
 Jan 2020 - May 2024
 
 CERTIFICATIONS
+Claude 101 - Anthropic (Aug 2026)
 Claude Code in Action - Anthropic (Mar 2026)
 AI Tools Workshop - United Latino Students Association (Apr 2026)
 Advanced Prompt Engineering - Simplilearn (Mar 2026)
