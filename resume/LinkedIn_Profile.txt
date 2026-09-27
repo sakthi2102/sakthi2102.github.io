@@ -42,7 +42,7 @@ Skills:
 Summary:
     Backend Developer | Spring Boot, Mobile App Development, Flutter | R&D Enthusiast
 
-    I specialize in backend development with Spring Boot and have a strong background in mobile app development with Android Java. Now, I am expanding my skill set by learning Flutter to build cross-platform applications. My areas of expertise include API integration and enhancing performance across backend and mobile systems. Driven by a passion for R&D, I continuously seek innovative approaches to optimize functionality and efficiency.
+    I specialize in backend development with Spring Boot and have a strong background in mobile app development with Android Java. Now, I am expanding my skill set by learning Flutter to build cross-platform applications. My areas of expertise include API integration and enhancing performance across backend and mobile systems. Driven by a passion for R&D, I continuously seek innovative approaches to optimize functionality and efficiency. AI is part of how I work every day: with Claude Code and prompt engineering, I pick up new stacks quickly and take ideas from prototype to production.
 
 Experience:
     CertusOne Software Technologies Private Limited

@@ -1,18 +1,18 @@
 Veerasakthivel S
-Software Developer - Backend & Mobile (Java, Spring Boot, Android, Flutter)
+Product Developer - Backend & Mobile (Java, Spring Boot, Android, Flutter)
 Phone: +91 97861 93013 | Email: veerasakthivel130@gmail.com
 Location: Sivakasi, Tamil Nadu, India (Open to remote)
 LinkedIn: www.linkedin.com/in/veerasakthivel
 Portfolio: https://sakthi2102.github.io/
 
 PROFESSIONAL SUMMARY
-Backend and Mobile Developer with 3+ years of experience building production Spring Boot backends and Android/Flutter mobile applications. Skilled in Java, Spring Boot, REST API design, PostgreSQL, SQL, Android (Java), Flutter, Dart, and Firebase. Experienced in system reliability, performance tuning, and time-series data optimization. Open to Backend, Mobile, Full-Stack, and R&D roles.
+Backend and Mobile Developer with 3+ years of experience building production Spring Boot backends and Android/Flutter mobile applications. Skilled in Java, Spring Boot, REST API design, PostgreSQL, SQL, Android (Java), Flutter, Dart, and Firebase. Experienced in system reliability, performance tuning, and time-series data optimization. Uses AI-assisted development (Claude Code) to learn new stacks quickly and deliver them end to end. Open to Backend, Mobile, Full-Stack, and R&D roles.
 
 TECHNICAL SKILLS
 Languages: Java, Dart, SQL, JavaScript, HTML, CSS
 Backend: Spring Boot, REST API Design, JDBC, Postman, PostgreSQL, TimescaleDB
 Mobile: Android (Java), Android SDK, Flutter, Firebase (Authentication, Realtime Database, Analytics)
-Tools & Practices: Git, Android Studio, IntelliJ IDEA, Unit Testing, Agile, Cytoscape.js, OPC UA Integration
+Tools & Practices: Git, Android Studio, IntelliJ IDEA, Unit Testing, Agile, Cytoscape.js, OPC UA Integration, AI-assisted development (Claude Code, prompt engineering)
 
 PROFESSIONAL EXPERIENCE
 

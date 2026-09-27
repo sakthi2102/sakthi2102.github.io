@@ -752,7 +752,7 @@
 <header>
   <div class="wrap hero">
     <div class="hero-inner">
-      <div class="eyebrow">Available for anything</div>
+      <div class="eyebrow">AI-powered developer · Open to new challenges</div>
       <h1 class="hero-h1">I build backends that <em>hold up</em>,<br>and the apps that talk to them.</h1>
       <p class="hero-sub">Backend &amp; mobile engineer based in Tamil Nadu, India. I build <strong>Spring Boot APIs</strong>, <strong>Android apps in Java</strong>, and <strong>Flutter clients</strong> — all three in active production, not phases.</p>
       <div class="cta-row">
@@ -778,6 +778,7 @@
           <p>I work across three tracks simultaneously — <strong>Spring Boot APIs</strong> on the backend, <strong>Android apps in Java</strong> on the mobile side, and <strong>Flutter</strong> for cross-platform clients. The Android and backend work are closely connected: the mobile apps I build consume the same APIs I design on the server, so I understand both sides of every integration.</p>
           <p>The backend goes beyond standard CRUD — I've built <strong>OPC UA</strong> pipelines that pull telemetry from factory-floor hardware and expose it through REST, done R&amp;D on <strong>TimescaleDB</strong> to bring query latency down on time-series data, and used <strong>Cytoscape.js</strong> to produce architecture flows that give stakeholders clarity without documentation overload.</p>
           <p>I started out building Android apps in Java — Firebase, Google Maps, navigation features — which gave me a solid mobile foundation that carries directly into the Android work I do today. I document what I learn across all three stacks on Medium.</p>
+          <p>AI is part of how I work every day. With <strong>Claude Code</strong> and prompt-engineering practices, I pick up unfamiliar stacks fast and take them from prototype to production. That's why I'm comfortable taking on problems outside my usual lane.</p>
         </div>
 
         <div class="skills-block">
@@ -809,7 +810,14 @@
               <span class="chip">Cytoscape.js</span>
               <span class="chip">Postman</span>
               <span class="chip">Git</span>
-              <span class="chip">Anthropic Claude</span>
+            </div>
+          </div>
+          <div class="skill-row">
+            <div class="skill-cat">AI</div>
+            <div class="chips">
+              <span class="chip">Claude Code</span>
+              <span class="chip">Prompt Engineering</span>
+              <span class="chip">AI-assisted Development</span>
             </div>
           </div>
           <div class="skill-row">
@@ -905,7 +913,7 @@
                 <div class="exp-role">Jr. Software Developer</div>
                 <div class="exp-company">Xmplar Management Solutions Pvt. Ltd.</div>
               </div>
-              <div class="exp-meta">Jun 2024 &ndash; Aug 2026 &middot; Madurai, TN<br>Jr. Java Developer Intern, Sep 2023 &ndash; May 2024</div>
+              <div class="exp-meta">Jun 2024 &ndash; Aug 2026 &middot; Madurai, TN<span style="display:block;white-space:normal">Jr. Java Developer Intern, Sep 2023 &ndash; May 2024</span></div>
             </div>
             <ul class="exp-bullets">
               <li>Spring Boot API development with PostgreSQL as the primary datastore — REST design, query optimisation, and integration plumbing.</li>
@@ -1155,7 +1163,7 @@
       </div>
       <div class="sec-body">
         <h2 class="sec-h2">Let&rsquo;s build something <em>reliable</em>.</h2>
-        <p class="contact-sub">Open to remote backend, full-stack, and R&amp;D roles. If what you&rsquo;re building needs solid APIs or cross-platform mobile, I&rsquo;d be glad to talk.</p>
+        <p class="contact-sub">Open to new challenges &mdash; backend, mobile, full-stack, R&amp;D, or a stack I haven&rsquo;t touched yet. With AI in my workflow I ramp up fast, so if you have a problem worth solving, I&rsquo;d be glad to talk.</p>
         <div class="contact-row">
           <a href="mailto:veerasakthivel130@gmail.com" class="btn btn-primary">veerasakthivel130@gmail.com</a>
           <a href="tel:+919786193013" class="btn btn-ghost">+91 97861 93013</a>
@@ -1169,7 +1177,7 @@
 <footer>
   <div class="wrap">
     <div class="foot-inner">
-      <div class="foot-copy">&copy; 2026 Veerasakthivel S</div>
+      <div class="foot-copy">&copy; <span id="year">2026</span> Veerasakthivel S</div>
       <ul class="foot-links">
         <li><a href="https://linkedin.com/in/veerasakthivel" target="_blank" rel="noopener">LinkedIn</a></li>
         <li><a href="https://github.com/sakthi2102" target="_blank" rel="noopener">GitHub</a></li>
@@ -1190,6 +1198,7 @@
     if (y) parts.push(y + '&nbsp;' + (y === 1 ? 'yr' : 'yrs'));
     if (m) parts.push(m + '&nbsp;' + (m === 1 ? 'mo' : 'mos'));
     uptime.innerHTML = parts.join('&nbsp;');
+    document.getElementById('year').textContent = now.getFullYear();
   })();
 
   (function () {

@@ -6,7 +6,7 @@ Personal portfolio site hosted on GitHub Pages.
 
 ## About
 
-Jr. Software Developer specializing in backend (Java, Spring Boot, PostgreSQL) and mobile (Android, Flutter). This site covers my experience, projects, writing, and contact info.
+Product Developer specializing in backend (Java, Spring Boot, PostgreSQL) and mobile (Android, Flutter). This site covers my experience, projects, writing, and contact info.
 
 ## Structure
 
