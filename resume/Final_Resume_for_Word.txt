@@ -18,7 +18,11 @@ PROFESSIONAL EXPERIENCE
 
 CertusOne Software Technologies Pvt. Ltd. - Product Developer
 Madurai, Tamil Nadu | Sep 2026 - Present
-- Continuing the same product work (Spring Boot APIs, Android and Flutter clients) after the team was spun off from Xmplar as a new entity.
+- Developing a Sales Force Automation (SFA) mobile application integrated with an enterprise ERP backend, supporting field-sales teams end to end.
+- Building Spring Boot APIs on PostgreSQL for REST endpoints, mobile-to-ERP data sync, and query performance tuning.
+- Building Android features in Java, including field-sales UI modules, background location tracking, push notifications, and offline-friendly data handling.
+- Developing Flutter clients for cross-platform use, with AI-assisted workflows to speed up UI iteration.
+- Contributing to AI-enabled features for intelligent data capture and process automation.
 
 Xmplar Management Solutions Pvt. Ltd. - Jr. Software Developer
 Madurai, Tamil Nadu | Jun 2024 - Aug 2026 (Jr. Java Developer Intern, Sep 2023 - May 2024)
